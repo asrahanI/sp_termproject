@@ -38,14 +38,13 @@
 
 ![image](https://user-images.githubusercontent.com/92137084/144740237-c5301ed9-39c5-470b-80e9-5d7c8a4d2e6c.png)
 
-사용법에 따라 영역을 지정한 후 필터를 지정합니다.
+사용법에 따라 영역을 지정한 후 필터를 지정하면 필터가 적용된 파일이 저장됩니다.
 
 ![image](https://user-images.githubusercontent.com/92137084/144740371-dcda6840-f204-4755-902f-424bb274218c.png)
 
 ![image](https://user-images.githubusercontent.com/92137084/144740504-6866c5df-a83e-409b-af1d-607241965375.png)
 
-
-
+![image](https://user-images.githubusercontent.com/92137084/144740546-2f39f6f2-a125-49a7-a676-256f6eb5dc84.png)
 
 
 
