@@ -16,7 +16,7 @@
 
 ## 다이어그램
 
-![image](https://user-images.githubusercontent.com/92137084/144743521-7cdab1ef-12b4-453a-b9a3-d725e1c55d60.png)
+![image](https://user-images.githubusercontent.com/92137084/144743542-69e963c8-f15f-48aa-9961-0151de740dd7.png)
 
 ## 프로젝트 개발 결과물 소개
 
