@@ -20,11 +20,29 @@
 
 ## 프로젝트 개발 결과물 소개
 
-아래 사진과 같이, 인물이 있는 사진을 프로그램에 입력하면 다섯 종류의 색다른 사진을 만들어 낼 수 있습니다.
+아래 사진과 같이, 인물이 있는 사진을 프로그램에 입력하면 배경 부분의 왜곡을 통해 다섯 종류의 색다른 사진을 만들어 낼 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/92137084/144738578-4d0535cb-5b57-4ea3-8303-e5a7ce5903b3.png)
 
+## 개발 결과물 사용법 소개
 
+리눅스 터미널을 통해 사용됩니다. 
+
+./main.py 파일명 을 입력하면 해당 이미지를 편집하게 됩니다.
+
+만일 파일명을 입력하지 않았거나, 하나 이상의 파일명을 입력하거나, 존재하지 않는 파일을 입력하는 등 잘못된 방식으로 사용 시 올바른 사용법을 출력합니다.
+
+![image](https://user-images.githubusercontent.com/92137084/144740212-5fbafcc5-456a-4c6e-b4d3-ac08344798b4.png)
+
+올바른 방식으로 사용한 경우, 사용법과 함께 사진의 영역 지정 창이 생성됩니다.
+
+![image](https://user-images.githubusercontent.com/92137084/144740237-c5301ed9-39c5-470b-80e9-5d7c8a4d2e6c.png)
+
+사용법에 따라 영역을 지정한 후 필터를 지정합니다.
+
+![image](https://user-images.githubusercontent.com/92137084/144740371-dcda6840-f204-4755-902f-424bb274218c.png)
+
+![image](https://user-images.githubusercontent.com/92137084/144740504-6866c5df-a83e-409b-af1d-607241965375.png)
 
 
 
